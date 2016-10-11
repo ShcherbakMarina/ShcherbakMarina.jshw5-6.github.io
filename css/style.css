@@ -1,0 +1,23 @@
+#pause {
+  /*visibility: hidden;*/
+}
+
+.wrapper {
+  height: 200px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+}
+
+span {
+  font-size: 30px;
+}
+
+.miliseconds {
+	font-size: 15px;
+}
+
+.btn-primary {
+  width: 60px;
+}
